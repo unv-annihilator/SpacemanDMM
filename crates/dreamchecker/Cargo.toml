@@ -12,4 +12,4 @@ ahash = "0.7.6"
 
 [build-dependencies]
 chrono = "0.4.0"
-git2 = { version = "0.13", default-features = false }
+git2 = { version = "0.14", default-features = false }
